@@ -9,22 +9,22 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Partner file
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Parnter Name: Sonia Thomas
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Github username: sthomas20
 
-```{r cars}
-summary(cars)
-```
+In the most recent commit my partner pushed hw1 onto their github. 
 
-## Including Plots
+Commit ID: d6c02363
 
-You can also embed plots, for example:
+I was able to knit my partners hw1 with no errors. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+A tip for Github is to make sure you always commit as often as you can that way when collaborating your partner can see your most recent updates and file. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+
+
