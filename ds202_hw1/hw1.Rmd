@@ -1,0 +1,26 @@
+---
+title: "hw1.Rmd"
+author: "John Nownes, GitHub username: jnownes"
+date: "1/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Created folder named ds202_hw1, and created this RMarkDown file under this folder.
+2. Wrote my name and my GitHub username in the YAML of this document.
+3. One job that I am interested in that is related to data science is flight test engineering. As an aerospace engineering student, aerospace is an industry I have always been very interested in, and I knew that I wanted to study it in college since I was in middle school. I only recently became interested in the fields of computer and data science, however, and that was because I started to see how vital computing and especially data analysis was to the field of aerospace engineering.
+Flight test engineering, for example, involves the collection of data during initial flights of new aircraft. After each test flight, the data collected from the flight is analyzed and is used to verify that the aircraft is behaving and flying like expected. Having a background in data science will help me in this very critical process of aerospace development. [Here is a link to a new Boeing plane (777X) that will begin its flight testing this week.](https://www.linkedin.com/posts/boeing_777x-activity-6625458767511322625-LusS) Here is a picture of the 777X's engines:
+
+![Those *engines* are **HUGE!**](https://i.redd.it/rlbkhbrcq9m21.jpg)
+
+4.
+```{r}
+version
+```
+5. Installed Git
+6. git version 2.25.0.windows.1
+7. Configured Git
+8. GitHub username: jnownes
